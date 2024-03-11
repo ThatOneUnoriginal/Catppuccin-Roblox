@@ -30,5 +30,6 @@
 <summary>🌿 Mocha</summary>
 <img src="./assets/Roblox Catppucin Mocha.png"/>
 </details>
-<h2>💝 Current Maintainer</h2>
-- [ThatOneUnoriginal](https://github.com/ThatOneUnoriginal)
+
+## 💝 Current Maintainer
+- [ThatOneUnoriginal](https://github.com/thatoneunoriginal)
